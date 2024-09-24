@@ -1,4 +1,4 @@
-package com.example.javaasync.ThreadClasses;
+package com.example.javaasync.AsyncCases.ThreadPool;
 
 import lombok.extern.slf4j.Slf4j;
 

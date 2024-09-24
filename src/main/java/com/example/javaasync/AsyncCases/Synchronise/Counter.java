@@ -1,4 +1,4 @@
-package com.example.javaasync.ThreadClasses;
+package com.example.javaasync.AsyncCases.Synchronise;
 
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.ReentrantLock;

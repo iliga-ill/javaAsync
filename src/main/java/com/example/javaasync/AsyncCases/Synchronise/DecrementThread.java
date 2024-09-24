@@ -1,4 +1,4 @@
-package com.example.javaasync.ThreadClasses;
+package com.example.javaasync.AsyncCases.Synchronise;
 
 public class DecrementThread extends Thread {
     private Counter counter;

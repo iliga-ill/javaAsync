@@ -1,14 +1,12 @@
-package com.example.javaasync.AsyncCases;
+package com.example.javaasync.AsyncCases.Threads;
 
-import com.example.javaasync.ThreadClasses.MyRunnable;
-import com.example.javaasync.ThreadClasses.MyThread1;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.List;
 
 @Slf4j
-public class ThreadJoin {
+public class ThreadJoinCase {
     /**
      * потоки сначала запускаются через start, и потом join к основному потоку.
      * join останавливает основной поток пока второстепенный не отработает полностью

@@ -1,4 +1,4 @@
-package com.example.javaasync.ThreadClasses;
+package com.example.javaasync.AsyncCases.LockAndCondition;
 
 public class Producer implements Runnable {
     private final SharedResource resource;

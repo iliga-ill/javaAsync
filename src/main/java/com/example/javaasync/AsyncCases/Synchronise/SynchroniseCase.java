@@ -1,8 +1,5 @@
-package com.example.javaasync.AsyncCases;
+package com.example.javaasync.AsyncCases.Synchronise;
 
-import com.example.javaasync.ThreadClasses.Counter;
-import com.example.javaasync.ThreadClasses.DecrementThread;
-import com.example.javaasync.ThreadClasses.IncrementThread;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j

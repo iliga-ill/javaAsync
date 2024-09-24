@@ -1,4 +1,4 @@
-package com.example.javaasync.ThreadClasses;
+package com.example.javaasync.AsyncCases.Threads;
 
 import com.example.javaasync.utils.Logs;
 import lombok.SneakyThrows;
